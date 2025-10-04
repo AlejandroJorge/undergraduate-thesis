@@ -4,7 +4,7 @@
   title: "GompherMP",
   subtitle: "Implementación de paralelismo basado en directivas adaptando el estándar OpenMP al lenguaje Go",
   date: "30-09-2025",
-  authors: ("Patricia Cántaro Marquez", "Jorge Alejandro Contreras"),
+  authors: ("Jorge Alejandro Contreras", "Patricia Cántaro Márquez"),
   footer-subtitle: "Paralelismo basado en directivas",
   layout: "large",
   count: "number",
